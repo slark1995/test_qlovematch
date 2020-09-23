@@ -1,0 +1,3 @@
+#GET {{base_url}}/config/
+#Authorization: Token {{user_token}}
+#Accept: application/json
